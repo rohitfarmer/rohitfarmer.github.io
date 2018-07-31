@@ -43,7 +43,7 @@ analytics:
 # Set 'provider' to false to turn commenting off globally.
 #
 comments:
-    provider:
+    provider: disqus
     disqus:
       short_name: rohitfarmer-github-io
     livefyre:
