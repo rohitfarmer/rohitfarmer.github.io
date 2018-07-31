@@ -45,7 +45,7 @@ analytics:
 comments:
     provider:
     disqus:
-      short_name:
+      short_name: rohitfarmer-github-io
     livefyre:
       site_id:
     intensedebate:
