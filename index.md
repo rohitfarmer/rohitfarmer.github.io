@@ -10,11 +10,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## Contact
 
-Rebel base <br />
-[Yavin] <br />
-Galaxy far far away<br />
-Email: [chewy@rebel.com]
+Rohit Farmer, PhD <br />
+Email: [rohit.farmer@gmail.com]
 
-
-[Yavin]: https://en.wikipedia.org/wiki/Yavin
-[chewy@rebel.com]: mailto:chewy@rebel.com
+[rohit.farmer@gmail.com]: mailto:rohit.farmer@gmail.com
