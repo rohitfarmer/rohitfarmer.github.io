@@ -1,15 +1,15 @@
-title: Geeky corner
-description: Much-Worse Jekyll theme for academic page and blog
-sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
+title: Rohit Farmer
+description: Rohit Farmer's Homepage
+#sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
-url: "http://gchauras.github.io"     # the base hostname & protocol for your site
+url: "http://rohitfarmer.github.io"     # the base hostname & protocol for your site
 baseurl: "/"                   # the subpath of your site, e.g. /blog
 
 author:
-    name:
+    name: Rohit Farmer
     facebook:
     scholar:
 
