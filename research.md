@@ -3,9 +3,10 @@ feature_text: |
   Research is what I'm doing when I don't know what I'm doing. *Wernher von Braun*
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: ""
+aside: true
 ---
 <p style="text-align: center;"> 
-<a href="https://www.researchgate.net/profile/Rohit_Farmer">Research Gate</a> | <a href="https://www.slideshare.net/rohitfarmer">Slide Share</a>
+<a href="https://www.researchgate.net/profile/Rohit_Farmer">Research Gate</a> | <a href="https://www.slideshare.net/rohitfarmer">Slide Share</a> | <a href="https://scholar.google.co.uk/citations?user=CjajTzYAAAAJ&hl=en">Google Scholar Citations</a> | <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=rohit+farmer">PubMed</a>
 </p>
 
 **PhD Biosciences**  
