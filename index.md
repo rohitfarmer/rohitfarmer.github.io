@@ -2,7 +2,7 @@
 feature_text: |
   ## Rohit Farmer
   Welcome
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/images/index.jpg"
 excerpt: ""
 aside: true
 ---
