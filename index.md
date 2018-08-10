@@ -1,5 +1,4 @@
 ---
-title: About
 feature_text: |
   ## Rohit Farmer
   Welcome
@@ -10,7 +9,7 @@ aside: true
 
 Thank you for visiting my website.
 
-{% include figure.html image="/images/myphoto.jpg" caption="Right aligned image" position="right" width="300" height="800" %}
+{% include figure.html image="/images/myphoto.jpg" position="right" width="300" height="800" %}
 <p style="text-align: justify;"> 
 I am a postdoctoral research associate working with S. Joshua Swamidass, at the School of Medicine at the Washington University in St. Louis. Before moving to the USA I worked as an assistant professor at the Sam Higginbottom University of Agriculture, Technology and Sciences, India.
 
