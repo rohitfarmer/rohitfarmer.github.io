@@ -1,5 +1,4 @@
 ---
-title: Research
 feature_text: |
   Research is what I'm doing when I don't know what I'm doing. *Wernher von Braun*
 feature_image: "https://picsum.photos/2560/600?image=873"
