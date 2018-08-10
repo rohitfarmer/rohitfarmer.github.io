@@ -1,11 +1,13 @@
 ---
-title: Book Chapter on: Modelling Polyketide Synthases and Similar Macromolecular Complexes
+title: Modelling Polyketide Synthases and Similar Macromolecular Complexes
 category: Publication
 feature_text: |
   Modelling Polyketide Synthases and Similar Macromolecular Complexes
 feature_image: "https://unsplash.com/photos/Q4eWnth5S74"
 image: "https://unsplash.com/photos/Q4eWnth5S74"
 ---
+
+**Book Chapter**
 
 **Abstract**
 
