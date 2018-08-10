@@ -39,7 +39,7 @@ twitter:
   username: rohitfarmer # jekyll-seo-tag > Owners twitter username
 author: rohitfarmer # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: Rohit Farmer # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/rohitfarmer
     - https://www.linkedin.com/in/rohitfarmer
