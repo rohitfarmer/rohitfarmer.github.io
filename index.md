@@ -1,5 +1,5 @@
 ---
-title: About Alembic
+title: About
 feature_text: |
   ## Rohit
   Welcome
