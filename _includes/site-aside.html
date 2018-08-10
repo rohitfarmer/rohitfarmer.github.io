@@ -8,10 +8,15 @@
   {% elsif page.layout == "page" or page.layout == "home" or page.layout == "blog" %}
     <section class="section  section--description">
       <h4>Let's Connect</h4>
+      <br>
       <!--
       <p>{{ site.description }}</p>
       -->
       {% include nav-social.html %}
+    </section>
+    <section class="section  section--related-posts">
+      <h4>Recent Posts</h4>
+      {% include post-related.html %}
     </section>
 
   {% elsif page.layout == "categories" %}
