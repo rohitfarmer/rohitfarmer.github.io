@@ -4,7 +4,8 @@ feature_text: |
   ## Rohit Farmer
   Welcome
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: ""
+aside: true
 ---
 
 Thank you for visiting my website.
@@ -15,6 +16,6 @@ I did my PhD from the University of Birmingham, UK with Peter J. Winn, on the pr
 
 I am fond of technology, photography, reading and writing, and travelling. My latest interests are learning project management skills, spin-offs and startups, computer security, and anonymity over the internet.
 
-Contact
-Rohit Farmer, PhD
+Contact  
+Rohit Farmer, PhD  
 E-mail: [rohit.farmer@gmail.com](mailto:rohit.farmer@gmail.com)
