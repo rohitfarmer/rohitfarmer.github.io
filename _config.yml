@@ -68,14 +68,14 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/default-social-image.png" # Default image for sharing
+      image: "" # Default image for sharing
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Rohit Farmer" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Rohit Farmer's Professional Website" # Site description and default description, also used in jekyll-seo-tag
+logo: "favicon.ico" # Site logo, also used in jekyll-seo-tag
+description: "Rohit Farmer's Website" # Site description and default description, also used in jekyll-seo-tag
 url: "https://rohitfarmer.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: ""
