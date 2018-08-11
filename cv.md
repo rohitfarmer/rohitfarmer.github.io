@@ -1,7 +1,7 @@
 ---
 feature_text: |
   Curriculum Vitae / Resume
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "/images/cv.jpg"
 excerpt: ""
 aside: true
 ---
