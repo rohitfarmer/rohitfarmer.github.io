@@ -74,14 +74,14 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Rohit Farmer" # Site name or title, also used in jekyll-seo-tag
-logo: "favicon.ico" # Site logo, also used in jekyll-seo-tag
+logo: "assets/logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Rohit Farmer's Website" # Site description and default description, also used in jekyll-seo-tag
 url: "https://rohitfarmer.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: ""
 email: "rohit.farmer@gmail.com"
 disqus: "rohitfarmer-github-io" # Blog post comments, uncomment the option and set the site ID from your Disqus account
-avatarurl: "favicon.ico" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
+avatarurl: "assets/logo.png" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 # google_analytics: ''
 # service_worker: false # Will turn off the service worker if set to false
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
