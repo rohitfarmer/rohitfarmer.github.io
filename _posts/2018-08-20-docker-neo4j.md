@@ -58,6 +58,7 @@ To check the current running docker session(s).
     docker ps
 
 This should give you an output something like this:  
+
     CONTAINER ID  IMAGE   COMMAND                  CREATED          STATUS         PORTS                                                      NAMES
     1afa157d9caa  neo4j   "/sbin/tini -g -- ..."   36 minutes ago   Up 36 minutes  7473/tcp, 0.0.0.0:7475->7474/tcp, 0.0.0.0:7688->7687/tcp   my-neo4j
 
