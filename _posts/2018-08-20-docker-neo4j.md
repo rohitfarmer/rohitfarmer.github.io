@@ -7,15 +7,15 @@ feature_image: "/images/neo4j.jpg"
 comments: true
 ---
 
-Neo4J graph database server can only mount one graph database at a time. To run more than one instances of the neo4j server with different databases mounted on them one of the efficient methods is to use [neo4j docker image](https://hub.docker.com/_/neo4j/). The key to using more than one neo4j servers simultaneously is to use different ports for http, https and bolt connections which is relatively easy to do with the docker image. For my purpose, I also had to configure neo4j in such a way that it can access the database from a non-default location. This article might keep on changing as I acquire more knowledge on this topic. However, whatever is mentioned below works as it is.
+Neo4J graph database server can only mount one database at a time. To run more than one instances of the neo4j server with different databases mounted on them one of the efficient methods is to use [neo4j docker image](https://hub.docker.com/_/neo4j/). The key to using more than one neo4j servers simultaneously is to use different ports for http, https and bolt connections which is relatively easy to do with the docker image. For my purpose, I also had to configure neo4j in such a way that it can access the database from a non-default location.
 
 **Step 1: Installing the neo4j docker image.**  
-Presuming that you already have docker installed and also that you are working in Linux environment run:
+Presuming that you already have docker installed and also that you are working in Linux environment:
 
     docker pull neo4j
 
 **Step 2: Running neo4j docker image.**  
-By default, the neo4j docker image mounts the following folder:  
+By default, the neo4j docker image mounts the following folders:  
 
     home:         /var/lib/neo4j
     config:       /var/lib/neo4j/conf
@@ -30,7 +30,8 @@ These directories may correspond to the already existing directories on your sys
 
 The command below is going to run the neo4j docker image taking care of running the server on non-default ports and also creating or mounting the required folders from the desired location. 
 
-    docker run --detach --name=my-neo4j --rm --env=NEO4J_AUTH=none --publish=7475:7474 --publish=7476:7473 --publish=7688:7687 \
+    docker run --detach --name=my-neo4j --rm --env=NEO4J_AUTH=none \
+    --publish=7475:7474 --publish=7476:7473 --publish=7688:7687 \
     --volume=$HOME/neo4j/data:/data \
     --volume=$HOME/neo4j/import:/import \
     --volume=$HOME/neo4j/conf:/conf \
@@ -54,13 +55,13 @@ to mount the desired locations for the database creation or access.
 If no error is returned then your neo4j server is running and should have been mapped to the desired ports and folders.
 
 **Step 3. Check the docker and neo4j server running status.**  
-To check the current working docker session.
+To check the current running docker session(s).
 
     docker ps
 
 This should give you an output something like this:  
-    CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                                                      NAMES
-    1afa157d9caa        neo4j               "/sbin/tini -g -- ..."   36 minutes ago      Up 36 minutes       7473/tcp, 0.0.0.0:7475->7474/tcp, 0.0.0.0:7688->7687/tcp   my-neo4j
+    CONTAINER ID  IMAGE   COMMAND                  CREATED          STATUS         PORTS                                                      NAMES
+    1afa157d9caa  neo4j   "/sbin/tini -g -- ..."   36 minutes ago   Up 36 minutes  7473/tcp, 0.0.0.0:7475->7474/tcp, 0.0.0.0:7688->7687/tcp   my-neo4j
 
 To terminate this session:  
 
@@ -68,7 +69,7 @@ To terminate this session:
 
 To check neo4j running status: open a web browser and then navigate to  
 
-http://localhost:7475 (or the port that you have used for forwarding in the above-mentioned command)
+http://localhost:7475 (or the port that you have used for forwarding in step 2)
 
 It should render you a page like the one below:
 
@@ -76,7 +77,7 @@ It should render you a page like the one below:
 
 Change the bolt port to 7688 (or the port that you have used for forwarding in step 2), leave the password field empty (as we have asked for no authentication in step 2) and click connect.
 
-It should connect you to your default graph.db database.
+It should connect you to your default graph.db database which should look something like below.
 
 ![Neo4j Connection Established](/images/neo4j-2.png)
 
