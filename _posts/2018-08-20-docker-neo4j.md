@@ -2,7 +2,7 @@
 title: How to use docker to run multiple neo4j servers simultaneously
 category: HowTo
 feature_text: |
- How-to use docker to run multiple neo4j servers simultaneously
+ How to use docker to run multiple neo4j servers simultaneously
 feature_image: "/images/neo4j.jpg"
 comments: true
 ---
