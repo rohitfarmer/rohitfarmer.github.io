@@ -102,6 +102,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   Twitter: https://twitter.com/rohitfarmer
   LinkedIn: https://www.linkedin.com/in/rohitfarmer
   GitHub: https://github.com/rohitfarmer
+  Medium: https://medium.com/@rohitfarmer
   link: https://rohitfarmer.github.io
   RSS: /feed.xml
 
