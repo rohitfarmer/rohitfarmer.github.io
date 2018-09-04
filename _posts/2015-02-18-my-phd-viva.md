@@ -1,6 +1,6 @@
 ---
 title: My PhD viva experience
-category: Experience
+category: PhD
 feature_image: "/images/uob.jpg"
 comments: true
 ---
