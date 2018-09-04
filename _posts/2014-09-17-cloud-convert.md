@@ -1,6 +1,6 @@
 ---
 title: Cloud Convert to convert PostScript into SVG format
-category: PhD, HowTo
+category: HowTo
 feature_text: |
   Cloud Convert to convert PostScript into SVG format
 feature_image: "/images/clouds.jpg"
