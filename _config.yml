@@ -102,9 +102,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   Twitter: https://twitter.com/rohitfarmer
   LinkedIn: https://www.linkedin.com/in/rohitfarmer
   GitHub: https://github.com/rohitfarmer
-  Medium: https://medium.com/@rohitfarmer
-  Unsplash: https://unsplash.com/@rohitfarmer
-  link: https://rohitfarmer.github.io
+  link: https://rohitfarmer.carrd.co
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
