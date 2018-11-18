@@ -6,7 +6,7 @@ excerpt: ""
 aside: true
 ---
 
-[Industrial Resume](https://github.com/rohitfarmer/cv/raw/master/resume/resume.pdf)
+[Industrial Resume PDF](https://github.com/rohitfarmer/cv/raw/master/resume/resume.pdf)
 
 [Academic CV PDF](https://github.com/rohitfarmer/cv/blob/master/academic-cv/nCV.pdf?raw=1)
 
