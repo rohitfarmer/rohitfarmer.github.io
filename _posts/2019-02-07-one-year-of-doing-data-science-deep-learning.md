@@ -7,7 +7,7 @@ feature_image: "/images/floppy.jpg"
 comments: true
 ---
 
-For the past year, I have been doing data science (DS) & deep learning (DL) to understand drug bioactivation, toxicity and their implications on drug-induced liver injuries (DILI). I come from a background of molecular modeling which is a computational approach to analyse molecules, but I would not consider it to be DS or  DL. Hence, DS and DL were a new subject that I picked up to master, this blog post is an account of my year-long journey. 
+For the past year, I have been doing data science (DS) & deep learning (DL) to understand drug bioactivation, toxicity and their implications on drug-induced liver injuries (DILI). I come from a background of molecular modeling which is a computational approach to analyse molecules, but I would not consider it to be DS or  DL. Since, DS and DL were a new subject that I picked up to master, this blog post is an account of my year-long journey. 
 
 During my wait for the VISA to be sanctioned for my current position I asked my employer if there is anything that I should learn that would help me to get a good start in deep learning. The answer was Keras or Tensorflow that runs on Python. Ok, so I learned rudimentary Keras and Tensorflow and built intermediate level expertise in Python programming language. However, if someone wants to learn DL and if all he knows is vanilla Python programming then probably Keras or Tensorflow is not the first place to start. Most of the time in a DL project is spent in data wrangling which means getting the input data in the right format to be represented to a DL algorithm and re-formating the DL output for inference. 
 
