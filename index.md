@@ -29,4 +29,4 @@ You are on my personal website; hence none of the content on this website reflec
 **Contact**  
 Rohit Farmer, PhD  
 E-mail: [contact@rohitfarmer.dev](mailto:contact@rohitfarmer.dev)  
-NIH NED Info.: [http://bit.ly/2uLxqIx](http://bit.ly/2uLxqIx)
+NIH NED Info.: [http://bit.ly/ned_rohitfarmer](http://bit.ly/ned_rohitfarmer)
