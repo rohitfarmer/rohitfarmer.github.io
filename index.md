@@ -19,7 +19,7 @@ I did my PhD from the University of Birmingham, UK with <a href="https://www.bir
 </p>
 
 <p style="text-align: justify;"> 
-I am fond of <a href="https://rohitfarmer.quora.com" target="_blank">technology</a>, <a href="https://unsplash.com/@rohitfarmer" target="_blank">photography</a>, <a href="https://www.goodreads.com/user/show/82085648-rohit-farmer" target="_blank">reading</a> and <a href="https://medium.com/@rohitfarmer" target="_blank">writing</a>, and <a href="https://www.couchsurfing.com/people/rohitfarmer" target="_blank">travelling</a>. My latest interests are learning project management skills, spin-offs and startups, computer security, and anonymity over the internet.  
+I am fond of <a href="https://dev.to/rohitfarmer" target="_blank">technology</a>, <a href="https://unsplash.com/@rohitfarmer" target="_blank">photography</a>, <a href="https://www.goodreads.com/user/show/82085648-rohit-farmer" target="_blank">reading</a> and <a href="https://medium.com/@rohitfarmer" target="_blank">writing</a>, and <a href="https://www.couchsurfing.com/people/rohitfarmer" target="_blank">travelling</a>. My latest interests are learning project management skills, spin-offs and startups, computer security, and anonymity over the internet.  
 </p>
 
 <p style="text-align: justify; font-style: italic; font-weight: bold;"> 
@@ -28,5 +28,5 @@ You are on my personal website; hence none of the content on this website reflec
 
 **Contact**  
 Rohit Farmer, PhD  
-E-mail: [rohit.farmer@gmail.com](mailto:rohit.farmer@gmail.com)  
+E-mail: [contact@rohitfarmer.dev](mailto:contact@rohitfarmer.dev)  
 NIH NED Info.: [http://bit.ly/2uLxqIx](http://bit.ly/2uLxqIx)
