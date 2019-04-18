@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
 gemspec
-gem "jekyll --no-document"
+gem 'github-pages'
 gem "html-proofer"
