@@ -19,6 +19,7 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - alembic-jekyll-theme.gemspec
+- vendor
 
 # 2. Installed Gems
 plugins:
