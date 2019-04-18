@@ -1,6 +1,6 @@
 ---
 title: One Year of Doing Data Science & Deep Learning
-category: Data Science
+category: DataScience
 feature_text: |
   One Year of Doing Data Science & Deep Learning
 feature_image: "/images/floppy.jpg"

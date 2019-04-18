@@ -9,7 +9,7 @@ aside: true
 
 Thank you for visiting my website.  
 
-{% include figure.html image="/images/myphoto.jpg" position="right" width="300" height="800" %}
+{% include figure.html image="/images/myphoto.jpg" position="right" width="300" height="800" alt="Rohit Farmer Picture" %}
 <p style="text-align: justify;"> 
 I am a computational biologist at <a href="https://www.mscweb.com" target="_blank">Medical Science & Computing (MSC), LLC,</a> and working on site at the <a href="https://chi.niaid.nih.gov" target="_blank">Center for Human Immunology (CHI)</a>, National Institutes of Health (NIH), Bethesda, MD. Before moving to the USA, I worked as an assistant professor at the <a href="http://shuats.edu.in/" target="_blank">Sam Higginbottom University of Agriculture, Technology & Sciences, India</a>.  
 </p>
