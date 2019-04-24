@@ -10,7 +10,7 @@ comments: true
 Below is an example protocol to run Jupyter notebook in an interactive node on a high-performance computer (HPCs). Most of the HPCs have their specialised way of interacting with them. Therefore, you may have to tweak this protocol as per your need. I would be happy to discuss and troubleshoot with you; contact me at [rohit.farmer@gmail.com](mailto:rohit.farmer@gmail.com). Any suggestions to augment this protocol with more advanced features are welcomed.
 
 1. SSH to the HPC.    
-2. Claim an interactive node (follow the standard procedure for your HPC, in case it is `qrsh`).   
+2. Claim an interactive node (follow the standard procedure for your HPC, in my case it is `qrsh`).   
 3. Note the interactive node name.  
 4. Run Jupyter on the claimed interactive node by `jupyter notebook --no-browser --ip='0.0.0.0'` or create an alias in your bashrc for a shortcut. For example `alias jup='jupyter notebook --no-browser --ip='0.0.0.0''`.  
 5. On your computer start another SSH session with tunnelling using the interactive node name as noted above `ssh user@host -L8888:nodeName:8888 -N`. *The prompt probably won't return and you may also not see any message in your terminal, but as long as there is no error message, it's probably running fine.*  
