@@ -7,7 +7,7 @@ feature_image: "/images/computer.jpg"
 comments: true
 ---
 
-Below is an example protocol to run Jupyter notebook in an interactive node on a high-performance computer (HPCs). Most of the HPCs have their specialised way of interacting with them. Therefore, you may have to tweak this protocol as per your need. I would be happy to discuss and troubleshoot with you; contact me at [rohit.farmer@gmail.com](mailto:rohit.farmer@gmail.com). Any suggestions to augment this protocol with more advanced features are welcomed.
+Below is an example protocol to run Jupyter notebook in an interactive node on a high-performance computer (HPCs). Most of the HPCs have their specialised way of interacting with them. Therefore, you may have to tweak this protocol as per your need. I would be happy to discuss and troubleshoot with you; contact me at [contact@rohitfarmer.dev](mailto:contact@rohitfarmer.dev). Any suggestions to augment this protocol with more advanced features are welcomed.
 
 1. SSH to the HPC.    
 2. Claim an interactive node (follow the standard procedure for your HPC, in my case it is `qrsh`).   
