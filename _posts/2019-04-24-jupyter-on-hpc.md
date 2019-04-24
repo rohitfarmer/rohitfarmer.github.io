@@ -1,13 +1,11 @@
 ---
 title: How-to run Jupyter notebook in an interactive node on a High-Performance Computer (HPC).
-category: DataScience, HowTo
+category: DataScience HowTo
 feature_text: |
   How-to run Jupyter notebook in an interactive node on a High-Performance Computer (HPC).
 feature_image: "/images/computer.jpg"
 comments: true
 ---
-
-# How-to run Jupyter notebook in an interactive node on a High-Performance Computer (HPC).
 
 Below is an example protocol to run Jupyter notebook in an interactive node on a high-performance computer (HPCs). Most of the HPCs have their specialised way of interacting with them. Therefore, you may have to tweak this protocol as per your need. I would be happy to discuss and troubleshoot with you; contact me at rohit.farmer@gmail.com. Any suggestions to augment this protocol with more advanced features are welcomed.
 
