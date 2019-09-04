@@ -25,6 +25,7 @@ Molecular dynamics simulations of ACPs from the mupirocin cluster revealed that 
 </p>
 
 **Paper(s) published on this work:**
+Farmer, R., Thomas, C.M., Winn, P.J. Structure, function and dynamics in acyl carrier proteins. PLOS ONE, 14(7):1–17, 2019. [PMID: 31291335](https://www.ncbi.nlm.nih.gov/pubmed/31291335)  
 
 Farmer, R., Thomas, C.M., Winn, P.J., Modelling Polyketide Synthases and Similar Macromolecular Complexes, Current trends in Bioinformatics: an Insight, Chapter: 7, Wadhwa G et al. (eds.), Springer Nature Singapore Pte Ltd., 2018, pp. 121-144. [https://doi.org/10.1007/978-981-10-7483-7_7](https://doi.org/10.1007/978-981-10-7483-7_7)
 
