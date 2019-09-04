@@ -1,10 +1,8 @@
 ---
 title: Structure, Function and Dynamics in Acyl Carrier Proteins
-.
 category: Publication
 feature_text: |
   Structure, Function and Dynamics in Acyl Carrier Proteins
-.
 feature_image: "/images/computer.jpg"
 comments: true
 ---
