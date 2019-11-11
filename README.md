@@ -3,8 +3,8 @@
 [![Build Status](https://travis-ci.org/rohitfarmer/rohitfarmer.github.io.svg?branch=master)](https://travis-ci.org/rohitfarmer/rohitfarmer.github.io)  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
-Website URL: [https://www.rohitfarmer.dev](https://www.rohitfarmer.dev)  
-E-mail: [contact@rohitfarmer.dev](mailto:contact@rohitfarmer.dev)  
+Website URL: [https://rohitfarmer.github.io](https://rohitfarmer.github.io)   
+E-mail: [rohit.farmer@gmail.com](mailto:rohit.farmer@gmail.com)  
 
 **Links to other social networks.**
 

@@ -28,4 +28,4 @@ You are on my personal website; hence none of the content on this website reflec
 
 **Contact**  
 Rohit Farmer, PhD  
-E-mail: [contact@rohitfarmer.dev](mailto:contact@rohitfarmer.dev)  
+E-mail: [rohit.farmer@gmail.com](mailto:rohit.farmer@gmail.com)  
