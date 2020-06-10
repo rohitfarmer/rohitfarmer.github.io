@@ -30,7 +30,10 @@ plugins:
 - jekyll-redirect-from
 - jekyll-default-layout
 - jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
 - jemoji
+
 
 # 3. Gem settings
 paginate: 5 # jekyll-paginate > items per page
