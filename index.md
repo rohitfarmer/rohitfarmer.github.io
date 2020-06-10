@@ -5,6 +5,7 @@ feature_text: |
 feature_image: "/images/index.jpg"
 excerpt: ""
 aside: true
+layout: page
 ---
 
 Thank you for visiting my website.  
